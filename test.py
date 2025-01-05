@@ -1,6 +1,6 @@
 for i in range(10):
     print(i)
 print("Hello World")
-print("another line to test")
+print("cause conflict")
 print("check diff -stage")
 print("another commit")
